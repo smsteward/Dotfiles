@@ -2,6 +2,7 @@
 
 lxsession &
 picom -b
+nitrogen --restore &
 redshift &
 xinput set-prop 8 289 1
 xscreensaver &
